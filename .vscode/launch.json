@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - merge",
+            "request": "launch",
+            "mainClass": "leetcode.diffsort.mergesort.merge",
+            "projectName": "codeplay_68807211"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - quick",
+            "request": "launch",
+            "mainClass": "leetcode.diffsort.quicksort.quick",
+            "projectName": "codeplay_68807211"
+        }
+    ]
+}

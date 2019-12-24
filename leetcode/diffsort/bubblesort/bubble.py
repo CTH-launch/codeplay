@@ -29,4 +29,4 @@ if __name__ == "__main__":
     print(args.input)
     input = args.input.split(',')
     output = bubble_sort(input)
-    print output
+    print(output)
