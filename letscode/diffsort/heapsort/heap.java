@@ -1,4 +1,4 @@
-package leetcode.diffsort.heapsort;
+package letscode.diffsort.heapsort;
 import java.util.Arrays;
 class heap {
     class data {

@@ -1,4 +1,4 @@
-package leetcode.datastructure.linkedlist.singlylinkedlist;
+package letscode.datastructure.linkedlist.singlylinkedlist;
 
 class singly{
     class ListNode{

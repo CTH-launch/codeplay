@@ -1,4 +1,4 @@
-package leetcode.diffsort.quicksort;
+package letscode.diffsort.quicksort;
 import java.util.Arrays;
 class quick {
     public static int[] quickSort(int[] input) {

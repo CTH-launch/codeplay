@@ -1,4 +1,4 @@
-package leetcode.diffsort.mergesort;
+package letscode.diffsort.mergesort;
 import java.util.Arrays;
 class merge{
     public static void mergeSort(int[] input) {

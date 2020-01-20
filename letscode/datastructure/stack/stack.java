@@ -1,4 +1,4 @@
-package leetcode.datastructure.stack;
+package letscode.datastructure.stack;
 import java.util.EmptyStackException;
 class stack {
     int MAX;

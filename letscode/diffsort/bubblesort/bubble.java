@@ -1,4 +1,4 @@
-package leetcode.diffsort.bubblesort;
+package letscode.diffsort.bubblesort;
 import java.util.Arrays;
 class bubble {
     public static int[] bubbleSort(int[] input) {
